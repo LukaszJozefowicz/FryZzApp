@@ -1,7 +1,7 @@
 This is web application is intended to use by hairdressers for management of customers. It was created using IntelliJ/Maven, Spring MVC/Data, MySQL database. To launch it Apache Tomcat web container and creating database is required.
 
 This app was created in 1 week as the group project during Java course by Software Development Academy. Created by:
-Łukasz Józefowicz
-Rafał Kowalski
-Marcin Podsiadły
+Łukasz Józefowicz,
+Rafał Kowalski,
+Marcin Podsiadły,
 Przemysław Karcz
